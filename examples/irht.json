@@ -1,0 +1,80 @@
+{
+    "id": 230,
+    "href": "https://api.irht.cnrs.fr/manuscripts/230",
+    "ark_href": "https://api.irht.cnrs.fr/manuscripts/ark:/63955/md268336h32b",
+    "shelfmark": {
+        "id": 61315,
+        "identifier": "France, Alençon, Médiathèque de la communauté urbaine d'Alençon, 637",
+        "type_identifier": "cote de référence",
+        "idno": "637"
+    },
+    "alt_shelfmarks": [
+        {
+            "id": 79786,
+            "identifier": "France, Alençon, Médiathèque de la communauté urbaine d'Alençon, Saint-Martin de Sées, T. f. 21",
+            "type_identifier": "cote ancienne",
+            "idno": "Saint-Martin de Sées, T. f. 21"
+        }
+    ],
+    "support": "parchemin",
+    "content": "ISIDORUS, Etymologiae ; fragm. d'Aspremont en français",
+    "dimensions": "352 x 226",
+    "availability": "",
+    "nbpage": "185 f.",
+    "note": "",
+    "dating": "12e s. (début)",
+    "bookbinding": "reliure",
+    "illustrations": [
+        {
+            "id": 6,
+            "name": "ornement"
+        }
+    ],
+    "languages": [
+        {
+            "id": 4,
+            "name": "latin"
+        },
+        {
+            "id": 11,
+            "name": "français"
+        }
+    ],
+    "sources": [
+        {
+            "id": 4,
+            "name": "CMD"
+        }
+    ],
+    "ark": "ark:/63955/md268336h32b",
+    "irht_links": [],
+    "related_links": [
+        {
+            "id": 30149,
+            "href": "http://www.deaf-page.de/bibl/bib99a.php#AspremwB",
+            "type": "Bibliographie",
+            "title": "DEAF"
+        }
+    ],
+    "date_creation": "2009-03-07T00:00:00+01:00",
+    "publication": "",
+    "reproductions": [
+        {
+            "id": 172,
+            "subject": "intégral",
+            "process_type": "numérique",
+            "progress_status": "FAIT",
+            "ark_href": "https://api.irht.cnrs.fr/reproductions/ark:/63955/rrk4apjsuacs",
+            "href": "https://api.irht.cnrs.fr/reproductions/172",
+            "manifest_url": "https://api.irht.cnrs.fr/ark:/63955/fsvzptwicviq/manifest.json",
+            "manuscrit_id": 230,
+            "encart": "<p>Manuscrit numérisé et mis en ligne grâce au soutien de Biblissima (programme «&nbsp;Investissements d'avenir&nbsp;», contrat ANR-­11-­EQPX-­0007) .</p><p><a href=\"http://www.biblissima-condorcet.fr/\">http://www.biblissima-condorcet.fr/</a></p>",
+            "nb_views": "192",
+            "nb_vues": 193,
+            "avg_width": null,
+            "avg_height": null,
+            "date_creation_sommaire": null
+        }
+    ],
+    "thumbnail": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxa4y611z3k0/full/200,/0/default.jpg"
+}
